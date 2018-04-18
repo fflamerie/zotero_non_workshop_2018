@@ -1,19 +1,5 @@
 # Bibliographic and PDF management tools : overview and practical focus on Zotero
 
-<!-- this is for the READ-ME file -->
-Non-content of a non-workhop for [CEE2018](https://cee2018.sciencesconf.org) "From knowledge to environmental action : synthesising evidence to inform decisions" . The workshop was planned but had to be cancelled.
-It has been designed as a component of a larger project, [CEE Biblio management project](https://osf.io/3a9zy), which aimed to provide an overview of the usage and usability of reference management softwares for systematic review within the CEE, as well as to improve bilbiographic-related practices among CEE members.
-It has been prepared with Ludivine Boursier (Foundation for Research on Biodiversity - Scientific documentalist and secretary) and Alison Bethel (University of Exeter - Information Specialist).
-
-Bibliographic management is understood in a broad sense, to include the management of bibliographic references and full-text files. The teaching is designed in two stages :
-
-*  A time of restitution and exchanges (1h) around the results of a survey on bibliographic management practices within the CEE (online survey carried out from Frebuary 2018),
-* A practical training time (2h) to open source software Zotero, centered on the most useful functionalities in the context of a systematic review, such as :
-    * Tools to organize and share the library
-    * Management of all types of documents and files
-    * Exports and bibliographic writing
-<!--end of README file-->
-
 ![licence_cc 50%](img/by-sa.png)
 
 # Part 1 : Exchanges - 1h
@@ -25,17 +11,18 @@ Bibliographic management is understood in a broad sense, to include the manageme
 #### What reference management software (RMS) or system do you currently use?
 
 _Live question using Slido or Pingo or any other live poll service - multiple choice answer_
-[ ] EndNote
-[ ] EndNote Web
-[ ] BibDesk
-[ ] JabRef
-[ ] BibTeX
-[ ] Zotero
-[ ] Papers
-[ ] Mendeley
-[ ] ReferenceManager
-[ ] I don't use any RMS, please specify how your manage your references
-[ ] Other, please specify
+
+- [ ] EndNote
+- [ ] EndNote Web
+- [ ] BibDesk
+- [ ] JabRef
+- [ ] BibTeX
+- [ ] Zotero
+- [ ] Papers
+- [ ] Mendeley
+- [ ] ReferenceManager
+- [ ] I don't use any RMS, please specify how your manage your references
+- [ ] Other, please specify
 
 #### How do CEE authors handle bibliographic management ?
 
@@ -243,17 +230,17 @@ We will first have a first overview of what RMS can do, so that you can better a
 ### What tasks do you expect an RMS should perform?
 
 _Live question using Slido or Pingo or any other live poll service - multiple choice answer_
-[ ] Saving references
-[ ] Adding and editing citations and bibliography into the paper you are writing
-[ ] Organizing references for easier retrieval and management
-[ ] Deduplicating references
-[ ] Automatic retrieval of full text pdf files
-[ ] Storing pdf files of research papers
-[ ] Sharing references with colleagues
-[ ] Creating lists of references
-[ ] Exporting references in files (csv for example)
-[ ] Appraising search results and coding references for inclusion in or exclusion from a systematic review
-[ ] Other
+- [ ] Saving references
+- [ ] Adding and editing citations and bibliography into the paper you are writing
+- [ ] Organizing references for easier retrieval and management
+- [ ] Deduplicating references
+- [ ] Automatic retrieval of full text pdf files
+- [ ] Storing pdf files of research papers
+- [ ] Sharing references with colleagues
+- [ ] Creating lists of references
+- [ ] Exporting references in files (csv for example)
+- [ ] Appraising search results and coding references for inclusion in or exclusion from a systematic review
+- [ ] Other
 
 ### CEE authors survey
 Same items, but slightly different question
