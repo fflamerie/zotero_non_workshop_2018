@@ -6,6 +6,10 @@ It has been designed as a component of a larger project, [CEE Biblio management 
 
 It has been prepared with the contributions of Ludivine Boursier (Foundation for Research on Biodiversity - Scientific documentalist and secretary) and Alison Bethel (University of Exeter - Information Specialist).
 
+Material available in this repository :
+* [outline for *Part 1 - Exchanges* of the workshop](https://github.com/fflamerie/zotero_non_workshop_2018/blob/master/CEE_biblio_management_non_workshop.md)
+* [selected bibliography](https://github.com/fflamerie/zotero_non_workshop_2018/blob/master/background_literature.bib)
+
 ## Description of the workshop
 Bibliographic management is understood in a broad sense, to include the management of bibliographic references and full-text files. The teaching is designed in two stages :
 
