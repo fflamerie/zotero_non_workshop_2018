@@ -4,7 +4,7 @@ Non-content of a non-workhop for [CEE2018](https://cee2018.sciencesconf.org) "Fr
 
 It has been designed as a component of a larger project, [CEE Biblio management project](https://osf.io/3a9zy), which aimed to provide an overview of the usage and usability of reference management softwares for systematic review within the CEE, as well as to improve bilbiographic-related practices among CEE members.
 
-It has been prepared with Ludivine Boursier (Foundation for Research on Biodiversity - Scientific documentalist and secretary) and Alison Bethel (University of Exeter - Information Specialist).
+It has been prepared with the contributions of Ludivine Boursier (Foundation for Research on Biodiversity - Scientific documentalist and secretary) and Alison Bethel (University of Exeter - Information Specialist).
 
 ## Description of the workshop
 Bibliographic management is understood in a broad sense, to include the management of bibliographic references and full-text files. The teaching is designed in two stages :
