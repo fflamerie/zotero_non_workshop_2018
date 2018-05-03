@@ -174,7 +174,7 @@ A key (for us) finding of this survey
 
 **2. Open source 2/3 : a community of users... and developers**
 
-Examples : plugin adding great features, developped by users
+Examples : plugins adding great features, developped by users
 
 * [ZotFile](http://zotfile.com/) : one of the best plugin to improve attached files management
 * [Zutilo](https://github.com/willsALMANJ/Zutilo) : many utilities to help managing tags by batch, copying items to the clipboard in many different formats, and more
@@ -278,7 +278,7 @@ We will highlight some features of Zotero in relation with _Screening/coding_ an
 #### Screening/coding
 _See below for examples from the literature_
 
-Zotero specific feature to highlight in relation with this task : **reports**. It is detailed in lenght and images in this page : Wiernik, B. (n.d.). Reports [Zotero Documentation]. _Zotero_. Available at https://www.zotero.org/support/reports
+Zotero specific feature to highlight in relation with this task : **reports**. It is detailed in length and images in this page : Wiernik, B. (n.d.). Reports [Zotero Documentation]. _Zotero_. Available at https://www.zotero.org/support/reports
 
 > **Reviewing Abstracts**
 >
@@ -334,7 +334,7 @@ Bramer, W. M., Milic, J., &amp; Mast, F. (2017). Reviewing retrieved references 
 
 King, R., Hooper, B., & Wood, W. (2011). Using bibliographic software to appraise and code data in educational systematic review research. _Medical Teacher_, _33_(9), 719‑723. https://doi.org/10.3109/0142159X.2011.558138
 
-#### Examples from the literature : systematic review specific : deduplicating
+#### Example from the literature : systematic review specific : deduplicating
 
 Cannot be adapted for Zotero ; see above for deduplicating with Zotero.
 
@@ -368,7 +368,7 @@ _Live question using Slido or Pingo or any other live poll service - free text a
 **Initial draft**
 
 * [10 min] how to get stuff into Zotero
-* [15 min] tips and tricks how to keep a cleaned-up library
+* [15 min] tips and tricks : how to keep a cleaned-up library
 * [10 min] collections/tags/saved searches to organize the library
 * [20 min] file management with Zotfile
 * **[5 minutes questions] = 1hour**
